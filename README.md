@@ -1,4 +1,4 @@
-# Restaurant browser - Wolt Summer 2020 pre assignment
+# Restaurant browser 
 
 A web page built with ReactJS and Bootstrap.
 
